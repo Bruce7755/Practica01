@@ -1,0 +1,7 @@
+INDEX VERSION 1.134
+C:\Users\User\Desktop\Practica Maven\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2173982156.index
+\Maven\src\main\resources
+C:\Users\User\Desktop\Practica Maven\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2971730166.index
+\maven_proyect2\src\main\java
+C:\Users\User\Desktop\Practica Maven\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4219144766.index
+\maven_project\src\main\resources
